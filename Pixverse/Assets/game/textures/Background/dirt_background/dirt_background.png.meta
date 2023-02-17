@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -295,14 +295,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      dirt_background_4: -1489289740
       dirt_background_0: 1394999113
-      dirt_background_3: -767469110
-      dirt_background_2: 1181781396
-      dirt_background_7: -367715373
       dirt_background_1: -500208654
+      dirt_background_2: 1181781396
+      dirt_background_3: -767469110
+      dirt_background_4: -1489289740
       dirt_background_5: -785523359
       dirt_background_6: -1472913697
+      dirt_background_7: -367715373
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
