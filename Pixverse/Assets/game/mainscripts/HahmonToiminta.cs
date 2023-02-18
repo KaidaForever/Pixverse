@@ -70,9 +70,11 @@ public class HahmonToiminta : MonoBehaviour
             }
         }
         
-        if (Input.GetKeyDown(KeyCode.Mouse0))
+
+
+        if (KohdePalikka && Input.GetKeyDown(KeyCode.Mouse0) && Vector2.Distance(new Vector3(KohdePalikka.transform.position.x,0,0), new Vector3(transform.position.x,0,0))< 2.2f && Vector2.Distance(new Vector3(0, KohdePalikka.transform.position.y, 0), new Vector3(0, transform.position.y, 0)) < 2.2f)
         {
-            if(KohdePalikka)
+            
             KohdePalikka.GetComponent<PalikanToiminta>().PalikanKestävyys--;
         }
 

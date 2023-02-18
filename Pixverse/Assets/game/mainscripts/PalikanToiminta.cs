@@ -27,8 +27,8 @@ public class PalikanToiminta : MonoBehaviour
     
     void Update()
     {
+        gameObject.GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, PalikanKestävyys/PalikanMaxKestävyys );
 
-        
 
         if (PalikanKestävyys <= 0)
             Destroy(gameObject);
@@ -37,7 +37,7 @@ public class PalikanToiminta : MonoBehaviour
 
         if (PalikanKestävyys < TarkistusKestävyys)
         {
-            gameObject.GetComponent<SpriteRenderer>().color -= new Color(0, 0, 0, 1/PalikanMaxKestävyys);
+           
             StartCoroutine(Korjaus());
             TarkistusKestävyys = PalikanKestävyys;
         }
@@ -54,7 +54,7 @@ public class PalikanToiminta : MonoBehaviour
         {
             PalikanKestävyys = PalikanMaxKestävyys;
             TarkistusKestävyys = PalikanKestävyys;
-            gameObject.GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, 1);
+            
 
         }
             
