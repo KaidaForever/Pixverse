@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 9066042322755757006}
   - component: {fileID: -4611706451305251468}
   m_Layer: 0
-  m_Name: dirt_background_0
+  m_Name: DirtBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73,8 +73,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 1394999113, guid: fa2bd4549476f2648b444918ba1edf74, type: 3}
+  m_SortingOrder: -1
+  m_Sprite: {fileID: -1489289740, guid: fa2bd4549476f2648b444918ba1edf74, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -92,7 +92,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9066042322755757005}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
