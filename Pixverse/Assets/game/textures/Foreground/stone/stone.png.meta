@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 93aaa992838c76b4d9d9c382cb3057c6
+guid: f697c90de642b544d924074250a8c2d1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Untitled-3_0
+      name: stone_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d99adb47069759c4c859f3edfe4fca97
-      internalID: 1081875418
+      spriteID: 75f2ffee4f61ce64294e2ea36ee71b15
+      internalID: -1372512789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-3_1
+      name: stone_1
       rect:
         serializedVersion: 2
         x: 32
@@ -140,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 795ee9b5452e80048a4cbd1ed5538cdb
-      internalID: 88240962
+      spriteID: 4ca7d4afb87cd8f418474325a013cabc
+      internalID: -720302144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-3_2
+      name: stone_2
       rect:
         serializedVersion: 2
         x: 0
@@ -161,14 +161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: deba011f024559643a23883fefeb9377
-      internalID: 1574367936
+      spriteID: 97e1322119dc5df4892ddaca4fdfaaa1
+      internalID: 737869560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-3_3
+      name: stone_3
       rect:
         serializedVersion: 2
         x: 32
@@ -182,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f49642cba2ea769429614b82fd50b0e8
-      internalID: -744228988
+      spriteID: 9c54675270185d24c89f495615b82ecf
+      internalID: -2048113505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-3_4
+      name: stone_4
       rect:
         serializedVersion: 2
         x: 64
@@ -203,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0379930dfb8ce1d49bc5aac73e7ad9eb
-      internalID: -968701551
+      spriteID: 0c93caeabc308034f9484b57aabca5d8
+      internalID: 122081018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-3_5
+      name: stone_5
       rect:
         serializedVersion: 2
         x: 0
@@ -224,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad1af68207ea5834ca10b8deb6b8a74d
-      internalID: 1410415925
+      spriteID: 7959ad26474256d4587b2d96466f68f3
+      internalID: 72326842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-3_6
+      name: stone_6
       rect:
         serializedVersion: 2
         x: 32
@@ -245,14 +245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e4b47c3453ec1348b3794976d3eea61
-      internalID: 2127032256
+      spriteID: e1455761059b52c4e8935a559e563642
+      internalID: -49633543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-3_7
+      name: stone_7
       rect:
         serializedVersion: 2
         x: 64
@@ -266,8 +266,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8503f25e3d780a043903990ccd1ee3ed
-      internalID: -948527536
+      spriteID: 9f44f276aab96154798816d24710e670
+      internalID: -1766975184
       vertices: []
       indices: 
       edges: []
@@ -283,14 +283,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Untitled-3_0: 1081875418
-      Untitled-3_1: 88240962
-      Untitled-3_2: 1574367936
-      Untitled-3_3: -744228988
-      Untitled-3_4: -968701551
-      Untitled-3_5: 1410415925
-      Untitled-3_6: 2127032256
-      Untitled-3_7: -948527536
+      stone_0: -1372512789
+      stone_1: -720302144
+      stone_2: 737869560
+      stone_3: -2048113505
+      stone_4: 122081018
+      stone_5: 72326842
+      stone_6: -49633543
+      stone_7: -1766975184
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
