@@ -11,7 +11,7 @@ public class WorldGeneration : MonoBehaviour
 
     private void Awake()
     {
-        transform.position = new Vector3(Random.Range(5, WorldWidth - 5), 1, 0);
+        transform.position = new Vector3(Random.Range(5, WorldWidth - 5), 3, 0);
     }
 
     void Start()

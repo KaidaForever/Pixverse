@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 9066042322755757007}
   - component: {fileID: 9066042322755757006}
   - component: {fileID: -4611706451305251468}
+  - component: {fileID: 529908658787321659}
   m_Layer: 0
   m_Name: DirtBG
   m_TagString: Untagged
@@ -111,3 +112,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &529908658787321659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9066042322755757005}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6d702aa81e48934995cc9b023a4d418, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
